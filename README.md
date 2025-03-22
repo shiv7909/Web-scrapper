@@ -1,13 +1,12 @@
-Here’s a well-structured **README.md** for your **Student Result Scraper & Processor** project, following best practices to ensure clarity and readability.  
 
 ---
 
-## **📌 Student Result Scraper & Processor**  
+# **📌 Student Result Scraper & Processor**  
 **Automates student result extraction from the University of Madras portal using Flask, Selenium, and Pandas.**  
 
 ---
 
-### **📖 Overview**  
+## **📖 Overview**  
 This project simplifies the process of fetching student results from the University of Madras results portal. It takes an **Excel file** containing Register Numbers and DOBs, scrapes the result data, and processes it into a structured Excel format.  
 
 ---
@@ -17,6 +16,20 @@ This project simplifies the process of fetching student results from the Univers
 ✅ **Web-based Upload Interface** – Flask-based UI for seamless file uploads.  
 ✅ **Excel File Processing** – Structures extracted results into a clean Excel format.  
 ✅ **Dark Themed UI** – Modern, animated UI with loading indicators for better UX.  
+
+---
+
+## **🛠 Tech Stack & Uses**  
+
+| **Technology**        | **Purpose** |
+|----------------------|-------------|
+| **Flask**           | Web framework for handling the UI and backend logic. |
+| **Selenium**        | Automates browser interaction to fetch student results. |
+| **Pandas**          | Processes, structures, and exports extracted data to Excel. |
+| **OpenPyXL**        | Handles Excel file operations (read/write). |
+| **Requests**        | Manages HTTP requests for data retrieval. |
+| **Webdriver-Manager** | Manages and auto-downloads the correct WebDriver for Selenium. |
+| **HTML, CSS, JS**   | Frontend for the web-based file upload interface. |
 
 ---
 
