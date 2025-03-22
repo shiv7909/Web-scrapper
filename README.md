@@ -26,8 +26,7 @@ student_results_scraper/
 │-- templates/
 │   │-- index.html       # Frontend UI for file upload
 │-- app.py               # Main Flask application
-│-- requirements.txt      # Project dependencies
-│-- student_results.xlsx  # Processed output file (generated after execution)
+
 ```
 
 ---
@@ -93,13 +92,3 @@ To track the extraction progress, check the terminal logs:
 📄 Results saved to: student_results.xlsx
 ```
 
----
-
-## **📜 License**  
-This project is **open-source** and available for modification and enhancement.  
-
-📌 *Contributions are welcome! Feel free to submit issues or pull requests.* 🎯  
-
----
-
-This README follows a structured format that is both **developer-friendly and informative**, making it easy for others to set up and use your project. 🚀
